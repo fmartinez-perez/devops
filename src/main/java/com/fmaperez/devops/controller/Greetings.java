@@ -9,6 +9,6 @@ public class Greetings {
 
     @RequestMapping("/")
     public String saludar(){
-        return "Hola";
+        return "Hola a todos";
     }
 }
